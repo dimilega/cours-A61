@@ -1,2 +1,2 @@
 # cours-A61
-420-A61-SF PRÉPARATION DE LA SOLUTION D'IA POUR LA MISE EN PRODUCTION - TP
+Préparation de la solution d'IA pour la mise en production
