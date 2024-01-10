@@ -3,6 +3,7 @@ flask==1.0.2
 Jinja2==2.10
 markupsafe==2.0.1
 itsdangerous==2.0.1
+Werkzeug==0.14
 # local regression_model package
 # update with your local path
 -e "D:\Personal\Cegep\IA_mise_prod\cours-A61\packages\regression_model"
