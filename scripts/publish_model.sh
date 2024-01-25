@@ -21,7 +21,7 @@ die() {
 
 build() {
     DIR="${1/%\//}"
-    echo $GEMFURY_URL
+    echo "Checking GEMFURY $GEMFURY_URL" 
     echo "Checking directory $DIR"
     cd "$BASE_DIR/$DIR"
     [ ! -e $SETUP ] && warn "No $SETUP file, skipping" && return
